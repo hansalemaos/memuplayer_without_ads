@@ -1,4 +1,4 @@
-# Get rid of MeMu Player advertisement in 2025
+# Get rid of MeMuPlay advertisement in 2025
 
 [![YT](https://i.ytimg.com/vi/AvWKDF0d-SU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AvWKDF0d-SU)
 [https://www.youtube.com/watch?v=AvWKDF0d-SU]()
