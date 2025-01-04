@@ -16,7 +16,7 @@ pm uninstall -k --user 0 "$(cmd shortcut get-default-launcher | head -n1 | awk -
 am start "$(cmd package resolve-activity --brief com.spocky.projengmenu | tail -n 1)"
 settings put secure enabled_accessibility_services com.spocky.projengmenu/com.spocky.projengmenu.services.ProjectivyAccessibilityService
 
-# Follow the instructions on the screen, and grand the rights the Launcher needs 
+# Follow the instructions on the screen, and grant the rights the Launcher needs 
 
 ```
 
