@@ -20,7 +20,7 @@ settings put secure enabled_accessibility_services com.spocky.projengmenu/com.sp
 
 ```
 
-## Select "override current launcher" in Projectivy Launcher's option 
+## Select "override current launcher" in Projectivy Launcher's settings 
 
 ## Reboot the emulator, and enjoy gaming/botting without ads
 
